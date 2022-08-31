@@ -22,12 +22,12 @@ const Header = () => {
               ))}
             </ul>
           </div>
-          <div className='button flex'>
+          <div className='button flex modal-dialog modal-dialog-centered'>
             <h4>
               <span>2</span> My List
             </h4>
             <button className='btn1'>
-              <i className='fa fa-sign-out'></i> Sign In 
+              <i className='fa fa-sign-out modal-dialog modal-dialog-centered'></i> Sign In 
             </button>
           </div>
 

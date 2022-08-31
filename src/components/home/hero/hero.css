@@ -29,6 +29,7 @@ form input {
   border: 1px solid rgba(128, 128, 128, 0.2);
   margin-top: 5px;
   border-radius: 5px;
+  
 }
 form span {
   font-size: 14px;
@@ -37,6 +38,7 @@ form span {
 input::placeholder {
   font-size: 17px;
   color: black;
+  text-align: center;
 }
 form .box {
   padding: 15px;
